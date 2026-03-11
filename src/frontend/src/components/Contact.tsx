@@ -111,7 +111,7 @@ export function Contact() {
               <Linkedin size={18} />
             </a>
             <a
-              href="https://leetcode.com/u/SenseiJha/"
+              href="https://leetcode.com/u/7Jq09Rw7yZ/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LeetCode"
