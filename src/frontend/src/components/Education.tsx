@@ -5,7 +5,7 @@ const education = [
   {
     degree: "B.Tech — Computer Science & Engineering",
     school: "ITER, SOA University",
-    cgpa: "7.74",
+    cgpa: "B",
     logo: "https://upload.wikimedia.org/wikipedia/en/c/c5/Siksha_%E2%80%98O%E2%80%99_Anusandhan.png",
     coursework: [
       "Data Structures & Algorithms",
@@ -138,11 +138,11 @@ export function Education() {
                           <span className="text-3xl font-black text-blue-accent">
                             {edu.cgpa}
                           </span>
-                          <span className="text-[#71717a] text-sm">/10</span>
+                          <span className="text-[#71717a] text-sm"></span>
                         </div>
 
                         <span className="text-xs text-[#71717a] uppercase tracking-wider">
-                          CGPA
+                          GRADE
                         </span>
 
                       </div>
