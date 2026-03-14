@@ -146,7 +146,7 @@ export function Hero() {
           variants={itemVariants}
           className="text-base md:text-lg lg:text-xl font-medium text-[#a1a1aa] mb-4 max-w-lg tracking-[-0.01em]"
         >
-          Backend Engineer · Mobile Builder · Applied AI Explorer
+          CS Engineer · Aerospace Enthusiast · Toastmaster
         </motion.p>
 
         {/* Description */}
