@@ -14,8 +14,8 @@ const projects = [
     description:
       "A full-featured platform for booking on-demand home cleaning services with real-time scheduling, provider matching, and service tracking.",
     tech: ["React Native", "Flutter", "REST APIs", "Scheduling"],
-    github: "https://github.com/SenseiJha",
-    demo: "#",
+    github: "https://github.com/SenseiJha/reset-cleaning-platform",
+    demo: "https://reset-cp.vercel.app/",
     icon: <Smartphone size={40} className="text-blue-accent opacity-70" />,
     gradient: "from-blue-900/30 to-slate-900/60",
     accentColor: "blue",
