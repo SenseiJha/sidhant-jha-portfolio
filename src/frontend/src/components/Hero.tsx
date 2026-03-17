@@ -172,7 +172,7 @@ export function Hero() {
             View Projects
           </button>
           <a
-            href="/resume.pdf"
+            href="/SJCV.pdf"
             download
             data-ocid="hero.secondary_button"
             className="px-8 py-3.5 rounded-xl text-sm font-semibold text-white border border-white/20 hover:border-white/40 hover:bg-white/5 transition-all duration-200 hover:scale-[1.03] focus:outline-none focus-visible:ring-2 focus-visible:ring-white/30"
