@@ -1,11 +1,11 @@
-# 🌿 Reset — Space, Restored
+# ⚔️ SIDHANT JHA
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:16a34a&height=220&section=header&text=Reset&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,100:1e3a8a&height=220&section=header&text=SJ&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <strong>On-demand cleanup. Post-party resets. Workspace clarity.</strong>
+  <strong>No pitch. No noise. Just the build.</strong>
 </p>
 
 ---
@@ -13,8 +13,8 @@
 ## 🌐 LIVE
 
 <p align="center">
-  <a href="https://reset-cp.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/OPEN-RESET-16a34a?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://sensei-jha.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/ENTER-SITE-0b0f1a?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -22,47 +22,17 @@
 
 ## 🧠 WHAT THIS IS
 
-**Reset** is a simple idea:
+    Sidhant Jha's portfolio.
 
-You live your moments.  
-We take care of what’s left after.
+Not built for:
+- recruiters  
+- trends  
+- validation  
 
-Whether it’s:
-- a late-night party  
-- a move-in or move-out  
-- a workspace that needs a fresh start  
+Built because it made sense to build it.
 
-Reset connects you to **on-demand help** to bring things back to order.
-
----
-
-## ✨ EXPERIENCE
-
-- 🧹 **Post-party cleanups** — wake up to a clean space  
-- 🏠 **Home resets** — quick, reliable, no friction  
-- 🧑‍💼 **Workspace refresh** — clarity for focus  
-- ⚡ **On-demand flow** — request → assign → done  
-
-Designed to feel:
-- simple  
-- calm  
-- dependable  
-
----
-
-## 🎨 DESIGN LANGUAGE
-
-<p align="center">
-  <code>Green × Black × Grey × White</code>
-</p>
-
-- 🌿 Green → renewal, freshness  
-- ⚫ Black → structure, grounding  
-- ⚙️ Grey → neutrality, balance  
-- ⚪ White → clarity, space  
-
-The interface stays out of the way —  
-so the purpose stays clear.
+Go through it if you want.  
+Or don’t.
 
 ---
 
@@ -74,12 +44,26 @@ so the purpose stays clear.
 
 ---
 
+## ⚡ PRINCIPLES
+
+<p align="center">
+  <code>Fast. Clean. Intentional.</code>
+</p>
+
+- No unnecessary layers  
+- No decorative complexity  
+- No wasted motion  
+
+If it exists here, it has a reason.
+
+---
+
 ## 🧩 STRUCTURE
 
 ```bash
 .
-├── components/   # reusable UI
+├── components/   # UI pieces
 ├── pages/        # routes
-├── styles/       # design system
-├── utils/        # helpers
-└── public/       # assets
+├── styles/       # styling system
+├── utils/        # logic helpers
+└── public/       # static assets
