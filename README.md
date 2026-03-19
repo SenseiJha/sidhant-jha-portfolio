@@ -1,7 +1,7 @@
 # ⚔️ SIDHANT JHA
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,100:1e3a8a&height=220&section=header&text=Sidhant Jha&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,100:1e3a8a&height=220&section=header&text=SJ&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
