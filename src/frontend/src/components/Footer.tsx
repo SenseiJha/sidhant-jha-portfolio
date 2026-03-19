@@ -46,16 +46,8 @@ export function Footer() {
             >
               <Linkedin size={16} />
             </a>
-            <a
-              href="mailto:sidhantjha2002@gmail.com"
-              aria-label="Email"
-              className="p-2 rounded-lg text-[#71717a] hover:text-white hover:bg-white/5 transition-all"
-            >
-              <Mail size={16} />
-            </a>
           </div>
 
-          {/* Caffeine attribution */}
           <p className="text-xs text-[#71717a]">
             Built with ❤️ by SJ
             <a
@@ -63,7 +55,6 @@ export function Footer() {
               rel="noopener noreferrer"
               className="text-blue-accent/70 hover:text-blue-accent transition-colors"
             >
-              caffeine.ai
             </a>
           </p>
         </div>
