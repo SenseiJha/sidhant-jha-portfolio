@@ -1,6 +1,5 @@
 import { Toaster } from "@/components/ui/sonner";
 import { About } from "./components/About";
-import { Contact } from "./components/Contact";
 import { Curiosity } from "./components/Curiosity";
 import { Education } from "./components/Education";
 import { EngineeringThinking } from "./components/EngineeringThinking";
@@ -34,8 +33,6 @@ export default function App() {
         <Leadership />
         <div className="section-divider" />
         <Curiosity />
-        <div className="section-divider" />
-        <Contact />
       </main>
       <Footer />
       <Toaster />
