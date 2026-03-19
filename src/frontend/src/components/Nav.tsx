@@ -7,8 +7,7 @@ const navLinks = [
   { label: "About", href: "#about" },
   { label: "Experience", href: "#experience" },
   { label: "Projects", href: "#projects" },
-  { label: "Skills", href: "#skills" },
-  { label: "Contact", href: "#contact" },
+  { label: "Skills", href: "#skills" }
 ];
 
 export function Nav() {
@@ -128,7 +127,7 @@ export function Nav() {
                   className="mt-4 w-full px-4 py-3 text-center text-sm font-semibold text-white bg-blue-accent hover:bg-blue-hover rounded-xl transition-all"
                   onClick={() => setMobileOpen(false)}
                 >
-                  Hire Me
+                  Connect
                 </a>
               </div>
             </SheetContent>
