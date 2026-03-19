@@ -71,7 +71,7 @@ export function Nav() {
             href="mailto:sidhantjha2002@gmail.com"
             className="ml-2 px-4 py-2 text-sm font-semibold text-white bg-blue-accent hover:bg-blue-hover rounded-xl transition-all duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-accent"
           >
-            Hire Me
+            Connect
           </a>
         </nav>
 
