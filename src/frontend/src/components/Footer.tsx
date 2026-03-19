@@ -57,9 +57,8 @@ export function Footer() {
 
           {/* Caffeine attribution */}
           <p className="text-xs text-[#71717a]">
-            Built with ❤️ using{" "}
+            Built with ❤️ by SJ
             <a
-              href={caffeineUrl}
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-accent/70 hover:text-blue-accent transition-colors"
