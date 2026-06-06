@@ -22,7 +22,7 @@ const experiences = [
     role: "Graduate Engineer Trainee (Mobile)",
     company: "Floatr Wealth",
     location: "Bangalore",
-    period: "Nov 2025 – Present",
+    period: "Nov 2025 – March 2026",
     badge: "Mobile / Fintech",
     badgeColor: "bg-emerald-500/10 text-emerald-400 border-emerald-500/20",
     bullets: [
